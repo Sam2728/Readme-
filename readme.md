@@ -12,7 +12,7 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
+<a href="https://komarev.com/ghpvc/?username=sam">
   <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>India</b> 」
     <br>
     <br>
   </samp>
